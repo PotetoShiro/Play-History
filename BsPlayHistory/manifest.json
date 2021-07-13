@@ -1,0 +1,14 @@
+﻿{
+  "$schema": "https://raw.githubusercontent.com/bsmg/BSIPA-MetadataFileSchema/master/Schema.json",
+  "id": "BsPlayHistory",
+  "name": "BsPlayHistory",
+  "author": "Shiro",
+  "version": "1.0",
+  "description": "",
+  "gameVersion": "1.16.2",
+  "dependsOn": {
+    "BSIPA": "^4.1.6"
+    "websocket-sharp":  "^1.0.4"
+  },
+  "features": []
+}
