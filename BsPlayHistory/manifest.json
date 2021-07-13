@@ -3,12 +3,14 @@
   "id": "BsPlayHistory",
   "name": "BsPlayHistory",
   "author": "Shiro",
-  "version": "1.0",
-  "description": "",
+  "version": "0.0.1",
+  "description": "Cria um WebSocket que mostra as informações da última música jogada",
   "gameVersion": "1.16.2",
   "dependsOn": {
-    "BSIPA": "^4.1.6"
-    "websocket-sharp":  "^1.0.4"
+    "BSIPA": "^4.1.6",
+    "websocket-sharp": "^1.0.4",
+    "BS Utils": "1.10.0"
   },
+  "loadAfter": [ "BS Utils"],
   "features": []
 }
