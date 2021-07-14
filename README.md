@@ -26,7 +26,7 @@
   Um WebSocket é criado no endereço ws://127.0.0.1:7890/Echo através do Plugin e ao terminar a música será enviado as informaçÕes de sua jogada como a pontuação, accuracy, miss,     duração da música, nome da música, rank e dificuldade da música.
   
 ## Créditos
-- Luke por me ajudar a fazer o Html e suas opiniões.
+- **Luke**.
 
 ## Dúvidas
   Se houver alguma dúvida me chame no discord: ඞ Shiro ඞ#2985.
