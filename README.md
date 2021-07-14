@@ -2,7 +2,7 @@
   Um plugin que cria um WebSocket Server e ao terminar uma música, irá enviar informações da jogada através do WebSocket.
 
 ## Depêndencias
--WebSocket-Sharp: ^1.0.4,
+-WebSocket-Sharp: ^1.0.4
 -Bs Utils: ^1.10.0
 
 ## Instalação
