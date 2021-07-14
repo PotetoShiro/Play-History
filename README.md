@@ -1,5 +1,5 @@
 ### Play-History
-  Explicação do que é
+  Um plugin que cria um WebSocket Server e ao terminar uma música, irá enviar informações da jogada através do WebSocket.
 
 ## Depêndencias
   -WebSocket-Sharp: ^1.0.4,
