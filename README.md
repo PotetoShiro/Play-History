@@ -1,5 +1,5 @@
 ### Play-History
-  This plugin creates a WebSocket Server and after your play, informations about your play will be sent through the WebScoket.
+  This plugin expose your last game information, using a custom stream overlay with a WebSocket you can show this informations in your Obs. 
 
 ## Dependences
 - WebSocket-Sharp: ^1.0.4
@@ -27,10 +27,10 @@
   A WebSocket is created on the address ws://127.0.0.1:7890/Echo through the plugin and when the music ends, your informations will be sended.
 
 ## Html Examples
-![img](https://github.com/PotetoShiro/Play-History/blob/main/Exemplos/1.png?raw=true)
-![img](https://github.com/PotetoShiro/Play-History/blob/main/Exemplos/2.png?raw=true)
-![img](https://github.com/PotetoShiro/Play-History/blob/main/Exemplos/3.png?raw=true)
-![img](https://github.com/PotetoShiro/Play-History/blob/main/Exemplos/4.png?raw=true)
+![img](https://github.com/PotetoShiro/Play-History/blob/main/Examples/1.png?raw=true)
+![img](https://github.com/PotetoShiro/Play-History/blob/main/Examples/2.png?raw=true)
+![img](https://github.com/PotetoShiro/Play-History/blob/main/Examples/3.png?raw=true)
+![img](https://github.com/PotetoShiro/Play-History/blob/main/Examples/4.png?raw=true)
   
 ## Doubt
   If you have any doubt, call me in discord: ඞ Shiro ඞ#2985.
