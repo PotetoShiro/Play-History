@@ -30,6 +30,9 @@
 ![img](https://github.com/PotetoShiro/Play-History/blob/main/Examples/2.png?raw=true)
 ![img](https://github.com/PotetoShiro/Play-History/blob/main/Examples/3.png?raw=true)
 ![img](https://github.com/PotetoShiro/Play-History/blob/main/Examples/4.png?raw=true)
+![img](https://github.com/PotetoShiro/Play-History/blob/main/Examples/5.png?raw=true)
+![img](https://github.com/PotetoShiro/Play-History/blob/main/Examples/6.png?raw=true)
+![img](https://github.com/PotetoShiro/Play-History/blob/main/Examples/7.png?raw=true)
   
 ## Doubt
   If you have any doubt, call me in discord: ඞ Shiro ඞ#2985.
