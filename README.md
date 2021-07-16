@@ -21,7 +21,6 @@
 - op: Change the background's opacity. (from 0 to 100, by default is 100, for example: 'op=80')
 - scroll: Scroll the name if is extensive. (true or false, by default is true, for example: 'scroll=false')
 - scrollSpeed: Change the Scroll's Speed. (from 0 to 100, by default is 90, for example: 'scrollSpeed=80')
-- debug: It's will show you the console log. (true or false, by default is false, for example: 'debug=true')
 
 ## How it works
   A WebSocket is created on the address ws://127.0.0.1:7890/Echo through the plugin and when the music ends, your informations will be sended.
